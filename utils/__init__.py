@@ -1,0 +1,2 @@
+"""Small image-shape helpers."""
+
