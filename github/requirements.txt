@@ -1,7 +1,0 @@
-numpy
-scipy
-matplotlib
-pillow
-imageio
-scikit-image
-torch
